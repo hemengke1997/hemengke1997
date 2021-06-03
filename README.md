@@ -3,3 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemengke1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 myblog: https://hemengke1997.github.io/myblog/
+
+wechat: Hemengke-
+
+email: 23536175@qq.com
