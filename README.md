@@ -1,3 +1,5 @@
+> 人是目的，不是手段
+
 ![my snake](https://github.com/hemengke1997/hemengke1997/blob/output/github-snake.svg)
 
 ![Metrics](/iso_calendar.svg)
