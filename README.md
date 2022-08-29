@@ -4,6 +4,10 @@
 
 一个随时可能被开除的打工人 🥲
 
+## 语雀
+
+[home](https://www.yuque.com/hemengke/blog)
+
 ## 2022.08 - 2023.01
 
 - [X] ✅ [my eslint/prettier/commitlint plugin](https://github.com/hemengke1997/any-config)
