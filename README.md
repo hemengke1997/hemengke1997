@@ -6,7 +6,7 @@
 
 ## 语雀
 
-[home](https://www.yuque.com/hemengke/blog)
+🦚 [home](https://www.yuque.com/hemengke/blog)
 
 ## 2022.08 - 2023.01
 
