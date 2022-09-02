@@ -4,10 +4,6 @@
 
 灵活学习与非必要不学习，千万不要恶意学习
 
-## 语雀
-
-🦚 [home](https://www.yuque.com/hemengke/blog)
-
 ## 2022.08 - 2023.01
 
 - [X] ✅ [my eslint/prettier/commitlint plugin](https://github.com/hemengke1997/any-config)
