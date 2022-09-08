@@ -1,7 +1,7 @@
 
 # 🧘‍♂️ 躺平青年  coding for fun!
 
-共产主义接班人
+<img src="./assets/1.jpeg" />
 
 ## 2022.08 - 2023.01
 
