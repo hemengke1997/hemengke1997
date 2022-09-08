@@ -1,7 +1,7 @@
 
 # 🧘‍♂️ 躺平青年  coding for fun!
 
-<img src="./assets/1.jepg" />
+<img src="./assets/1.jpeg" />
 
 ## 2022.08 - 2023.01
 
