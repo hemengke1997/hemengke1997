@@ -1,7 +1,7 @@
 
 # 🧘‍♂️ 躺平青年  coding for fun!
 
-<img src="./assets/4.jpg" />
+<img src="./assets/1.jpeg" />
 
 ## 2022.08 - 2023.01
 
@@ -11,6 +11,7 @@
 - [X] ✅ [postcss-pxtoviewport](https://github.com/hemengke1997/postcss-pxtoviewport)
 - [X] ✅ [style-object-to-string](https://github.com/hemengke1997/style-object-to-string)
 - [X] ✅ [ts-template](https://github.com/hemengke1997/ts-template)
+- [X] ✅ [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript)
 - [ ] 🚧 [styled-console](https://github.com/hemengke1997/styled-console)
 - [ ] 🚧 Go lang
 - [ ] 🙈 Python
