@@ -13,6 +13,7 @@
 - [X] ✅ [ts-template](https://github.com/hemengke1997/ts-template)
 - [X] ✅ [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript)
 - [ ] 🚧 [styled-console](https://github.com/hemengke1997/styled-console)
+- [ ] 🚧 Rust
 - [ ] 🚧 Go lang
 - [ ] 🙈 Python
 - [ ] 🚧 vscode plugin: EasyChangeTheme
