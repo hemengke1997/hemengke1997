@@ -1,7 +1,14 @@
 
-# 🧘‍♂️ 躺平青年  coding for fun!
+# 🧘‍♂️ 躺平
 
-<img src="./assets/1.jpeg" />
+## 论如何窃取劳动成果
+
+1. git clone
+2. delete author
+3. delete .git
+4. git init
+5. git add .
+6. git commit -m ''
 
 ## 2022.08 - 2023.01
 
