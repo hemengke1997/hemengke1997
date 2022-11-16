@@ -1,10 +1,10 @@
 
-# 🕊️ Coding for FUN
+# 🧘‍♂️ 躺平
 
 👍👍👍👍👍👍
-👍          👍
-👍          👍
-👍          👍
+
+别偷了师傅，别偷了
+
 👍👍👍👍👍👍
 
 ## 2022.08 - 2023.01
@@ -16,7 +16,6 @@
 - [X] ✅ [style-object-to-string](https://github.com/hemengke1997/style-object-to-string)
 - [X] ✅ [ts-template](https://github.com/hemengke1997/ts-template)
 - [X] ✅ [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript)
-- [ ] 🚧 [styled-console](https://github.com/hemengke1997/styled-console)
 - [ ] 🚧 Rust
 - [ ] 🚧 Go lang
 - [ ] 🙈 Python
