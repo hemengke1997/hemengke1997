@@ -1,4 +1,4 @@
 
-# 🕊️ 🌀 Naruto 🌀
+# 🌀 Naruto 🌀
 
-TAKE ME TO HEAVEN
+🕊️ TAKE ME TO HEAVEN
