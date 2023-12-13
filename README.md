@@ -89,12 +89,41 @@
 </td></tr></table>  
 
 <br/>  
-  
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=hemengke1997&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" /></div>  
+
+## Projects
+
+- [use-antd-resizable-header](https://github.com/hemengke1997/use-antd-resizable-header) <img alt="npm" src="https://img.shields.io/npm/v/use-antd-resizable-header?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - antd Table Header 可调整宽度的 React Hook
+- [postcss-pxtorem](https://github.com/hemengke1997/postcss-pxtorem) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtorem?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - px 转 rem 的 PostCSS 插件
+- [postcss-pxtoviewport](https://github.com/hemengke1997/postcss-pxtoviewport) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtoviewport?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - px 转 vw/vh 的 PostCSS 插件
+- [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-public-typescript?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - 把 typescript 注入到 index.html 的 Vite 插件
+- [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-i18n-detector?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - 懒加载 i18n 国际化资源的 Vite 插件
+- [modern-flexible](https://github.com/hemengke1997/modern-flexible) <img alt="npm" src="https://img.shields.io/npm/v/modern-flexible?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - 现代多设备伸缩方案
+- [any-config](https://github.com/hemengke1997/any-config) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/eslint-config?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - eslint/prettier/commitlint/tsconfig 等配置文件集合
+- [create-minko-app](https://www.npmjs.com/package/create-minko-app) <img alt="npm" src="https://img.shields.io/npm/v/create-minko-app?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - 创建vite/nextjs项目的脚手架
+- [ts-starter](https://github.com/hemengke1997/ts-starter) - typescript项目的脚手架
+- [context-state](https://github.com/hemengke1997/context-state) <img alt="npm" src="https://img.shields.io/npm/v/context-state?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - 轻巧的 React Context 状态管理库
+- [un-detector](https://github.com/hemengke1997/un-detector) <img alt="npm" src="https://img.shields.io/npm/v/un-detector?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - 强大的浏览器、系统、设备检测库
+- [utils](https://github.com/hemengke1997/util) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/axios-pro?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(36%2C%20175%2C%20122)"> - 常用工具集，包括
+  - @minko-fe/axios-pro - 基于 axios 封装的请求库
+  - @minko-fe/lodash-pro - 基于 lodash 封装的工具库
+  - @minko-fe/postcss-config - 常用的 postcss 配置
+  - @minko-fe/react-component - 多设备共用的 React 组件库
+  - @minko-fe/react-hook - 基于 ahooks / react-hook 封装的 hook 库
+  - @minko-fe/react-locale - 基于 react-i18next / vite-plugin-i18n-detector 封装的国际化库
+  - @minko-fe/react-route - 基于 react-router-dom@6 封装的配置式路由库
+  - @minko-fe/vite-config - 丰富的 vite 配置
+
 
 <br/>  
 
+## For Fun
+
+- [react-timeline-demo](https://hemengke1997.github.io/react-timeline-demo/) - React 实现的时间选择器
+- [react-magnifier](https://hemengke1997.github.io/react-magnifier/) - React 实现的图片放大镜
+
+<br/>  
   
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=hemengke1997&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" /></div>  
 
 <br/> 
