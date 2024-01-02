@@ -93,8 +93,7 @@
 ## Projects
 
 - [use-antd-resizable-header](https://github.com/hemengke1997/use-antd-resizable-header) <img alt="npm" src="https://img.shields.io/npm/v/use-antd-resizable-header?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - antd table 表格头列拖拽 hook
-- [vscode-image-analysor](https://marketplace.visualstudio.com/items?itemName=minko.image-analysor) <img alt="vscode" src="https://img.shields.io/visual-studio-marketplace/v/minko.image-analysor?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)
-" /> - vscode 图片处理扩展插件
+- [vscode-image-analysor](https://marketplace.visualstudio.com/items?itemName=minko.image-analysor) <img alt="vscode" src="https://img.shields.io/visual-studio-marketplace/v/minko.image-analysor?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)" /> - vscode 图片处理扩展插件
 - [postcss-pxtorem](https://github.com/hemengke1997/postcss-pxtorem) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtorem?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - px 转 rem 的 PostCSS 插件
 - [postcss-pxtoviewport](https://github.com/hemengke1997/postcss-pxtoviewport) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtoviewport?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - px 转 vw/vh 的 PostCSS 插件
 - [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-public-typescript?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 把 typescript 注入到 index.html 的 Vite 插件
