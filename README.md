@@ -2,10 +2,10 @@
 ### <div align="center">Hi! I'm Minko</div>  
   
 
-🧑‍💻 I have been working on front-end development for five years, and also doing some back-end work  
+🧑‍💻 A front-end developer, also doing some back-end work  
   
 
-🦀 I’m currently learning Rust! (Love it!)
+🦀 I’m currently learning Rust! (Love it)
 
 <br/>  
 
