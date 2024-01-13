@@ -1,0 +1,8 @@
+.cache
+.DS_Store
+.idea
+*.log
+*.tgz
+coverage
+node_modules
+temp*

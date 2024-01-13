@@ -21,7 +21,6 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="./assets/icons/astro.svg" alt="Astro" height="50" /></a>
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/electron-original.svg" alt="Electron" height="50" /></a>  
 <!-- UI framework -->
 <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="./assets/icons/antd.svg" alt="Ant Design" height="50" /></a>
@@ -53,7 +52,6 @@
 <!-- js -->
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/nestjs.svg" alt="NestJS" height="50" /></a>
 <!-- rust -->
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/rust.svg" alt="Rust" height="50" /></a>  
 <!-- java -->
@@ -93,7 +91,7 @@
 ## Projects
 
 - [use-antd-resizable-header](https://github.com/hemengke1997/use-antd-resizable-header) <img alt="npm" src="https://img.shields.io/npm/v/use-antd-resizable-header?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - antd table 表格头列拖拽 hook
-- [vscode-image-manager](https://marketplace.visualstudio.com/items?itemName=minko.image-manager) <img alt="vscode" src="https://img.shields.io/visual-studio-marketplace/v/minko.image-manager?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)" /> - 强大的vscode图片管理扩展
+- [vscode-image-manager](https://github.com/hemengke1997/vscode-image-manager) <img alt="vscode" src="https://img.shields.io/visual-studio-marketplace/v/minko.image-manager?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)" /> - 强大的vscode图片管理扩展
 - [postcss-pxtorem](https://github.com/hemengke1997/postcss-pxtorem) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtorem?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - px 转 rem 的 PostCSS 插件
 - [postcss-pxtoviewport](https://github.com/hemengke1997/postcss-pxtoviewport) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtoviewport?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - px 转 vw/vh 的 PostCSS 插件
 - [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-public-typescript?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 把 typescript 注入到 index.html 的 Vite 插件
