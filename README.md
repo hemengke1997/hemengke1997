@@ -21,7 +21,6 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/electron-original.svg" alt="Electron" height="50" /></a>  
 <!-- UI framework -->
 <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="./assets/icons/antd.svg" alt="Ant Design" height="50" /></a>
 <!-- i18next -->
@@ -37,10 +36,7 @@
 <!-- vscode -->
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/vscode.svg" alt="VS Code" height="50" /></a>
 <!-- basic -->
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./assets/icons/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./assets/icons/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="25%">
