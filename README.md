@@ -6,14 +6,11 @@
   
 
 🦀 I’m currently learning Rust! (Love it)
-
 <br/>  
 
 
-## My Skill Set
+## Skill Set
 <table><tr><td valign="top" width="25%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -40,7 +37,6 @@
 </div>
 
 </td><td valign="top" width="25%">
-
 
 
 ### Backend  
@@ -80,9 +76,8 @@
 <!-- blender -->
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/blender.png" alt="Blender" height="50" /></a>
 </div>
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>
+<br/>
 
 ## Projects
 
@@ -90,13 +85,14 @@
 - [vscode-image-manager](https://github.com/hemengke1997/vscode-image-manager) <img alt="vscode" src="https://img.shields.io/visual-studio-marketplace/v/minko.image-manager?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)" /> - 强大的vscode图片管理扩展
 - [postcss-pxtorem](https://github.com/hemengke1997/postcss-pxtorem) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtorem?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - px 转 rem 的 PostCSS 插件
 - [postcss-pxtoviewport](https://github.com/hemengke1997/postcss-pxtoviewport) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/postcss-pxtoviewport?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - px 转 vw/vh 的 PostCSS 插件
-- [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-public-typescript?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 把 typescript 注入到 index.html 的 Vite 插件
-- [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-i18n-detector?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 懒加载 i18n 国际化资源的 Vite 插件
+- [tailwind-antd-preset](https://github.com/hemengke1997/tailwind-antd-preset) <img alt="npm" src="https://img.shields.io/npm/v/tailwind-antd-preset?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 集成 antd css 模式的 tailwindcss 预设
+- [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-public-typescript?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - typescript 注入至 html 的 Vite 插件
+- [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) <img alt="npm" src="https://img.shields.io/npm/v/vite-plugin-i18n-detector?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 懒加载 i18n 资源的 Vite 插件
 - [modern-flexible](https://github.com/hemengke1997/modern-flexible) <img alt="npm" src="https://img.shields.io/npm/v/modern-flexible?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 现代多设备伸缩方案
 - [any-config](https://github.com/hemengke1997/any-config) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/eslint-config?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - eslint/prettier/commitlint/tsconfig 等配置文件集合
 - [create-minko-app](https://www.npmjs.com/package/create-minko-app) <img alt="npm" src="https://img.shields.io/npm/v/create-minko-app?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 创建vite/nextjs项目的脚手架
-- [ts-starter](https://github.com/hemengke1997/ts-starter) - typescript项目的脚手架
-- [context-state](https://github.com/hemengke1997/context-state) <img alt="npm" src="https://img.shields.io/npm/v/context-state?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 轻巧的 React Context 状态管理库
+- [ts-starter](https://github.com/hemengke1997/ts-starter) - typescript项目脚手架
+- [context-state](https://github.com/hemengke1997/context-state) <img alt="npm" src="https://img.shields.io/npm/v/context-state?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 性能优秀的 React Context 状态管理库
 - [un-detector](https://github.com/hemengke1997/un-detector) <img alt="npm" src="https://img.shields.io/npm/v/un-detector?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 强大的浏览器、系统、设备检测库
 - [utils](https://github.com/hemengke1997/util) <img alt="npm" src="https://img.shields.io/npm/v/@minko-fe/axios-pro?labelColor=rgb(104%2C%20104%2C%20104)&color=rgb(20%20158%20202%2F%201)"> - 常用工具集，包括
   - @minko-fe/axios-pro - 基于 axios 封装的请求库
