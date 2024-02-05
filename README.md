@@ -1,11 +1,5 @@
 
-### <div align="center">Hi! I'm Minko</div>  
-  
-
-🧑‍💻 A front-end developer, also doing some back-end work  
-  
-
-🦀 I’m currently learning Rust! (Love it)
+### <div align="center">Hi! I'm minko</div>  
 <br/>  
 
 
