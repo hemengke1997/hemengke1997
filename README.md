@@ -1,7 +1,6 @@
-
 ### <div align="center">Hi! I'm minko</div>  
-<br/>  
 
+<div><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=200&center=true&color=149ECA&vCenter=true&random=true&width=432&lines=Nodejs;React;Typescript;Nextjs;Vite;antd;VSCode;Postcss;I18n;Rust" alt="Skill" style="width: 100%" /></div>
 
 ## Skill Set
 <table><tr><td valign="top" width="25%">
